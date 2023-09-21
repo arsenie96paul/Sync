@@ -1,0 +1,15 @@
+C:\Users\arsen\Desktop\Sync\sync\sync\bin\Debug\net6.0\sync.exe
+C:\Users\arsen\Desktop\Sync\sync\sync\bin\Debug\net6.0\sync.deps.json
+C:\Users\arsen\Desktop\Sync\sync\sync\bin\Debug\net6.0\sync.runtimeconfig.json
+C:\Users\arsen\Desktop\Sync\sync\sync\bin\Debug\net6.0\sync.dll
+C:\Users\arsen\Desktop\Sync\sync\sync\bin\Debug\net6.0\sync.pdb
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\sync.csproj.AssemblyReference.cache
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\sync.AssemblyInfoInputs.cache
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\sync.AssemblyInfo.cs
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\sync.csproj.CoreCompileInputs.cache
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\sync.dll
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\refint\sync.dll
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\sync.pdb
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\sync.genruntimeconfig.cache
+C:\Users\arsen\Desktop\Sync\sync\sync\obj\Debug\net6.0\ref\sync.dll
